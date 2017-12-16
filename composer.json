@@ -2,7 +2,7 @@
     "name": "j3dyy/gif-generator",
     "type": "library",
     "description": "GifGenerator is a Project that creates animated GIF from multiple images",
-    "keywords": ["maker","gif", "animated", "creation", "encode", "PHP", "generate"],
+    "keywords": ["Giphy","maker","gif", "animated", "creation", "encode", "PHP", "generate"],
     "homepage": "https://github.com/j3dyy/gif-generator",
     "license": "MIT",
     "authors": [
