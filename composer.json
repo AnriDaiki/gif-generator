@@ -1,0 +1,25 @@
+{
+    "name": "j3dyy/gif-generator",
+    "type": "library",
+    "description": "GifGenerator is a Project that creates animated GIF from multiple images",
+    "keywords": ["maker","gif", "animated", "creation", "encode", "PHP", "generate"],
+    "homepage": "https://github.com/j3dyy/gif-generator",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Giorgi Nizharadze",
+            "homepage": "http://gnizharadze.me",
+            "role": "Back End Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Jedy\\GifGenerator\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+
+}
