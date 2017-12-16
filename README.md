@@ -2,6 +2,12 @@
 GifGenerator is a PHP Project to create animated GIF from multiple images
 This Project helps you to create an animated GIF image: give multiple images and their duration !
 
+### Installation
+
+~~~
+composer require j3dyy/gif-generator
+~~~
+
 ### Usage
 
 **1 - Creation:**
